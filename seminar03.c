@@ -92,6 +92,6 @@ int main() {
 	afisareVectorMasini(masini, nr);
 
 	dezalocareVectorMasini(&masini, &nr);
-	afisareVectorMasini(masini, nr);
+
 	return 0;
 }
