@@ -181,7 +181,7 @@ int main() {
 	printf("\npretul masinilor soferului este: %3.2f", suma);
 
 	dezalocareListaMasini(&lista);
-	//afisareListaMasini(lista);
+	afisareListaMasini(lista);
 
 	return 0;
 }
